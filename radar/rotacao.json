@@ -1,0 +1,41 @@
+{
+  "cursor": {
+    "bahia": 6,
+    "nordeste": 6,
+    "brasil": 6,
+    "internacional": 5
+  },
+  "coletas": [
+    {
+      "dia": "2026-10-30",
+      "perfis": [
+        "biomagistral_santaluz",
+        "acaciafarmacia",
+        "aformula.feiradesantana",
+        "aformulafarmacia",
+        "ativa_manipulacao",
+        "farmaciaelementarfsa",
+        "farmaformulasalvador",
+        "biomagistral_recife",
+        "biomagistral_fortaleza",
+        "biomagistral_joaopessoa",
+        "farmaformularecife",
+        "farmaciadefinitiva",
+        "livfarma",
+        "biomagistraloficial",
+        "biomagistral_goiania",
+        "biomagistral_jardins",
+        "biomagistral_saojosedoscampos",
+        "anfarmag",
+        "fagronbrasil",
+        "empowerpharmacy",
+        "strivepharmacy",
+        "curology",
+        "agencyskincare",
+        "dermatica.skin"
+      ],
+      "lidos": 24
+    }
+  ],
+  "inativos": []
+}

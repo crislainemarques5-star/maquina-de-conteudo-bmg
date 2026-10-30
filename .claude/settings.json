@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(python:*)",
+      "Bash(py:*)",
+      "Bash(pip:*)",
+      "Bash(git pull:*)",
+      "Bash(git status:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(start:*)",
+      "Bash(curl:*)",
+      "PowerShell(node:*)",
+      "PowerShell(npm:*)",
+      "PowerShell(Start-Process:*)",
+      "WebSearch",
+      "WebFetch",
+      "mcp__playwright__*"
+    ]
+  },
+  "enableAllProjectMcpServers": true
+}

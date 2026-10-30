@@ -1,0 +1,60 @@
+MENSAGEM PARA COLAR NO CLAUDE CODE
+(copie tudo entre as linhas ===== e cole no Claude Code)
+
+=====
+Olá, Claude! Estamos começando um novo projeto chamado MÁQUINA DE CONTEÚDO BMG: a máquina de conteúdo do Instagram @biomagistral_santaluz (Biomagistral Santaluz · BA, farmácia de manipulação franqueada da rede Biomagistral). Ela já foi construída e testada. O seu trabalho é instalá-la neste computador e operá-la. Leia tudo e siga o passo a passo.
+
+Autonomia total, autorizada pela gestão: instale, pesquise, gere, confira, corrija e siga sem pedir licença a cada passo. Quem vai falar com você entende pouco de programação. Ele só faz logins, responde perguntas objetivas e diz "pode programar". Fale em português simples e nunca peça que ele rode comandos: você roda.
+
+Este projeto é separado de qualquer outro projeto que já exista neste computador. Nunca misture os dois. Os posts são só da Biomagistral Santaluz · BA e nunca citam outras empresas, profissionais ou perfis pessoais, nem o de quem opera a máquina.
+
+PASSO 1 — INSTALAR (uma vez)
+1. Confira se há git e Node.js 18 ou mais novo. Sem Node.js, peça a ele, numa frase, para instalar o "LTS" em nodejs.org e reabrir o Claude Code. Sem git, baixe https://github.com/crislainemarques5-star/maquina-de-conteudo-bmg/archive/refs/heads/main.zip e extraia.
+2. Clone em Documentos com git clone https://github.com/crislainemarques5-star/maquina-de-conteudo-bmg.git "<Documentos do usuário>/maquina-de-conteudo-bmg". No Windows, Documentos é %USERPROFILE%\Documents. Trabalhe sempre dentro dessa pasta e rode npm install.
+3. Leia por inteiro o CLAUDE.md, o .claude/skills/bmg/SKILL.md e as referências de cada fase (.claude/skills/bmg/referencias/) antes de executá-la.
+4. Execute a Fase 1 da skill (referencias/instalacao.md):
+   - checar o ambiente e baixar as músicas;
+   - abrir o Chrome da máquina e pedir a ele UM login no ChatGPT (a conta paga dele) e no Claude (claude.ai);
+   - criar o design system BMG no Claude Design dele com os logos recortados (nunca redesenhar o logo);
+   - abrir o Chrome do radar e pedir o login no Instagram pessoal dele (o radar só lê);
+   - fazer a primeira coleta do radar e agendá-lo 3 vezes por semana;
+   - criar o atalho global da skill (~/.claude/skills/bmg/SKILL.md).
+
+PASSO 2 — NOVEMBRO JÁ ESTÁ PRONTO: SÓ PROGRAMAR
+O conteúdo de novembro/2026 já foi produzido e aprovado: 30 carrosséis animados e 13 microreels, cada um com legenda, data e hora, na pasta novembro-2026/ (uma pasta por post, agenda.csv/agenda.json e index.html). NÃO regenere nada de novembro.
+1. Abra novembro-2026/index.html para ele ver o mês e peça o "pode programar".
+2. Abra o Meta Business Suite no Chrome da máquina e peça a ele que entre na conta da Biomagistral.
+3. Programe post a post, na ordem da agenda, seguindo referencias/programar.md:
+   - carrossel: os vídeos 01.mp4, 02.mp4… na ordem;
+   - microreel: o reel.mp4 como Reel;
+   - legenda de legenda.txt, data e hora da agenda, no fuso de Brasília.
+4. Marque cada post confirmado em novembro-2026/agenda.json.
+5. O que falhar duas vezes vai para o guia novembro-2026/COMO-PROGRAMAR.md, que ele faz pelo celular.
+6. Gere a página dos roteiros da equipe (node motor/roteiros-pagina.mjs) para ele repassar.
+
+PASSO 3 — QUANDO ELE PEDIR POSTS NOVOS
+Por exemplo: "gere um carrossel sobre creatina Clonapure", "faz um microreel de magnésio" ou "monta dezembro". Siga a Fase 3 da skill (referencias/pedido-de-post.md), sem pular etapas. É isso que garante a mesma qualidade de novembro:
+1. Rode o radar se estiver velho e escolha em radar/MODELOS.md um formato já validado em alcance, engajamento e pedidos de compra. Use uma fonte que não apareça nos últimos 10 posts e copie só a estrutura, nunca o texto.
+2. Busque fatos com fonte (PubMed, Anvisa/IN 28, fabricante) e confira as regras de publicidade de farmácia (perfil/regras-publicidade.md e perfil/linha-editorial.md).
+3. Escreva o post em conteudo/plano.mjs, tendo o post 2026-11-05 como padrão de qualidade.
+4. Gere a foto no ChatGPT pela fila e confira uma a uma (pessoa bonita e alegre, mãos e rosto perfeitos, sem texto ou logo).
+5. Gere a molécula do ativo.
+6. Gere a prévia e revise slide a slide com o checklist (referencias/qualidade.md). Depois grave a versão animada.
+7. Mostre a ele e programe depois do "pode programar".
+
+REGRAS QUE NUNCA MUDAM
+- Toda peça cita "Santaluz · BA".
+- O logo nunca é recriado.
+- Nada de ilustração de cápsula.
+- O fundo é de bioquímica, nunca de constelação.
+- Sem preço, promoção, sorteio, depoimento ou promessa.
+- CTA: "Chame no WhatsApp (75) 99878-6349 para uma avaliação personalizada" e "Entrega grátis para toda a Bahia".
+- Senhas nunca em arquivo.
+- Radar só de leitura.
+- Nada é programado sem o "pode programar".
+
+SE A SESSÃO CAIR
+O estado fica salvo nos arquivos. Volte para a pasta maquina-de-conteudo-bmg, leia .claude/skills/bmg/SKILL.md e continue de onde parou.
+
+Comece agora dizendo: "Oi! Vou instalar a Máquina de Conteúdo BMG. Novembro já está pronto, e depois da instalação a gente só programa. Me dá uns minutinhos que eu já te chamo." Depois execute.
+=====

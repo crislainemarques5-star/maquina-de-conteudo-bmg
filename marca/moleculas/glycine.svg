@@ -1,0 +1,117 @@
+<svg version='1.1' baseProfile='full'
+              xmlns='http://www.w3.org/2000/svg'
+                      xmlns:rdkit='http://www.rdkit.org/xml'
+                      xmlns:xlink='http://www.w3.org/1999/xlink'
+                  xml:space='preserve'
+width='1200px' height='1200px' viewBox='0 0 1200 1200'>
+<!-- END OF HEADER -->
+<path pathLength='1' class='bond-0 atom-0 atom-1' d='M 497.7,788.5 L 715.2,662.7' style='--k:0;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:3.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path pathLength='1' class='bond-1 atom-1 atom-2' d='M 734.0,673.6 L 733.8,432.3' style='--k:1;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:3.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path pathLength='1' class='bond-1 atom-1 atom-2' d='M 696.3,673.6 L 696.1,432.3' style='--k:1;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:3.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path pathLength='1' class='bond-2 atom-1 atom-3' d='M 715.2,662.7 L 913.5,777.0' style='--k:2;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:3.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path pathLength='1' class='bond-3 atom-0 atom-4' d='M 497.7,788.5 L 297.4,673.1' style='--k:3;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:3.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1' />
+<path d='M 508.5,782.2 L 497.7,788.5 L 487.7,782.7' style='fill:none;stroke:currentColor;stroke-width:3.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path d='M 704.3,669.0 L 715.2,662.7 L 725.1,668.4' style='fill:none;stroke:currentColor;stroke-width:3.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;' />
+<path class='atom-2' d='M 703.9 411.5
+Q 703.9 405.8, 706.8 402.5
+Q 709.6 399.3, 715.0 399.3
+Q 720.3 399.3, 723.2 402.5
+Q 726.0 405.8, 726.0 411.5
+Q 726.0 417.4, 723.1 420.7
+Q 720.2 424.0, 715.0 424.0
+Q 709.7 424.0, 706.8 420.7
+Q 703.9 417.4, 703.9 411.5
+M 715.0 421.3
+Q 718.6 421.3, 720.6 418.8
+Q 722.6 416.4, 722.6 411.5
+Q 722.6 406.8, 720.6 404.4
+Q 718.6 402.0, 715.0 402.0
+Q 711.3 402.0, 709.3 404.4
+Q 707.3 406.8, 707.3 411.5
+Q 707.3 416.4, 709.3 418.8
+Q 711.3 421.3, 715.0 421.3
+' fill='currentColor'/>
+<path class='atom-3' d='M 921.8 788.2
+Q 921.8 782.4, 924.7 779.2
+Q 927.5 776.0, 932.8 776.0
+Q 938.2 776.0, 941.0 779.2
+Q 943.9 782.4, 943.9 788.2
+Q 943.9 794.1, 941.0 797.4
+Q 938.1 800.7, 932.8 800.7
+Q 927.5 800.7, 924.7 797.4
+Q 921.8 794.1, 921.8 788.2
+M 932.8 798.0
+Q 936.5 798.0, 938.5 795.5
+Q 940.5 793.1, 940.5 788.2
+Q 940.5 783.5, 938.5 781.1
+Q 936.5 778.7, 932.8 778.7
+Q 929.2 778.7, 927.2 781.1
+Q 925.2 783.5, 925.2 788.2
+Q 925.2 793.1, 927.2 795.5
+Q 929.2 798.0, 932.8 798.0
+' fill='currentColor'/>
+<path class='atom-3' d='M 947.6 776.3
+L 950.9 776.3
+L 950.9 786.5
+L 963.2 786.5
+L 963.2 776.3
+L 966.5 776.3
+L 966.5 800.3
+L 963.2 800.3
+L 963.2 789.2
+L 950.9 789.2
+L 950.9 800.3
+L 947.6 800.3
+L 947.6 776.3
+' fill='currentColor'/>
+<path class='atom-4' d='M 233.5 651.0
+L 236.8 651.0
+L 236.8 661.3
+L 249.1 661.3
+L 249.1 651.0
+L 252.4 651.0
+L 252.4 675.1
+L 249.1 675.1
+L 249.1 664.0
+L 236.8 664.0
+L 236.8 675.1
+L 233.5 675.1
+L 233.5 651.0
+' fill='currentColor'/>
+<path class='atom-4' d='M 257.1 674.3
+Q 257.6 672.8, 259.0 671.9
+Q 260.4 671.1, 262.4 671.1
+Q 264.8 671.1, 266.1 672.4
+Q 267.5 673.7, 267.5 676.0
+Q 267.5 678.4, 265.7 680.6
+Q 264.0 682.8, 260.4 685.4
+L 267.7 685.4
+L 267.7 687.2
+L 257.0 687.2
+L 257.0 685.6
+Q 260.0 683.5, 261.7 682.0
+Q 263.5 680.4, 264.4 679.0
+Q 265.2 677.6, 265.2 676.1
+Q 265.2 674.6, 264.4 673.7
+Q 263.7 672.9, 262.4 672.9
+Q 261.1 672.9, 260.2 673.4
+Q 259.4 673.9, 258.8 675.1
+L 257.1 674.3
+' fill='currentColor'/>
+<path class='atom-4' d='M 274.7 651.0
+L 282.5 663.8
+Q 283.3 665.1, 284.6 667.3
+Q 285.8 669.6, 285.9 669.7
+L 285.9 651.0
+L 289.1 651.0
+L 289.1 675.1
+L 285.8 675.1
+L 277.3 661.2
+Q 276.4 659.5, 275.3 657.7
+Q 274.3 655.8, 274.0 655.2
+L 274.0 675.1
+L 270.8 675.1
+L 270.8 651.0
+L 274.7 651.0
+' fill='currentColor'/>
+</svg>

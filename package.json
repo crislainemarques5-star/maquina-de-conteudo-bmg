@@ -1,0 +1,19 @@
+{
+  "name": "maquina-de-conteudo-bmg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Máquina de Conteúdo BMG: carrosséis animados, microreels, fotos do ChatGPT, radar rotativo e programação do Instagram @biomagistral_santaluz, operada pelo Claude Code (skill bmg).",
+  "type": "module",
+  "engines": { "node": ">=18.17" },
+  "scripts": {
+    "checar": "node motor/checar.mjs",
+    "musicas": "node motor/instalar-musicas.mjs",
+    "chrome": "node motor/navegador.mjs abrir",
+    "radar": "node motor/radar.mjs",
+    "novembro": "node motor/entrega.mjs 2026-11 --destino=novembro-2026 --abrir"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0",
+    "playwright-core": "^1.49.0"
+  }
+}

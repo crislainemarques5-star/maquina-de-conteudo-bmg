@@ -1,0 +1,10 @@
+node_modules/
+.env
+.estudio/
+.chrome-*/
+saida/
+artes/
+musicas/
+*.log
+*.tmp
+radar/ultimo.log

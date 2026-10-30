@@ -1,0 +1,17 @@
+Crie um microreel de animação vertical para o Instagram @biomagistral_santaluz (Biomagistral Santaluz · BA, farmácia de manipulação).
+Tema: energia celular (coenzima Q10, resveratrol e curcumina nas formas mais avançadas).
+Formato: 9:16, 1080×1920, 15 s, 30 fps.
+Use estritamente o design system "BMG Biomagistral Santaluz" já configurado: cores, Poppins, dourado metálico em degradê, fundo azul-marinho, rede molecular fina, partículas douradas desfocadas. O logo é o do design system, inteiro, nunca redesenhado nem animado em partes; aparece só no fecho. Nada de ilustração de cápsula, frasco ou pílula.
+
+CONCEITO: a energia de verdade nasce dentro da célula. Abstrato, tecnológico e elegante.
+
+PRIMEIRO SEGUNDO: quadro 0 cheio; um ponto de luz dourada pulsa no centro e acende a frase do gancho.
+
+CENA 1 · GANCHO (0,0–2,8 s): Texto: "Cansaço não se resolve com pressa."
+CENA 2 · ZOOM (2,8–5,8 s): câmera mergulha numa forma orgânica abstrata em linhas douradas finas (sugestão de mitocôndria estilizada, não literal), com pulsos de luz percorrendo as linhas. Texto: "Energia de verdade nasce dentro da célula."
+CENA 3 · ATIVOS (5,8–10,2 s): três nós da rede molecular acendem um a um, cada um com uma etiqueta: "Coenzima Q10 · fitossoma", "Resveratrol trans", "Curcumina de alta absorção".
+CENA 4 · VIRADA (10,2–12,2 s): as três luzes se unem numa só. Texto: "Nas formas mais avançadas. Com critério."
+FECHO (12,2–15,0 s): fundo azul-marinho, logo dourado do design system, "Chame no WhatsApp (75) 99878-6349", "Santaluz · BA"; nos últimos 0,4 s o ponto de luz volta ao centro (loop).
+
+MOVIMENTO, ÁREA SEGURA, CONTRASTE E PROIBIÇÕES: iguais às regras do design system (entradas suaves de 400 a 700 ms, um movimento herói por cena, texto longe das bordas, texto claro sobre azul, sem preço, sem promessa de resultado, sem emoji).
+ENTREGA: HTML autocontido com modo de gravação. Confira texto, tempos, contraste, área segura e o loop antes de entregar.

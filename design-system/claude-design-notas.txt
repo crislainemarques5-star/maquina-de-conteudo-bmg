@@ -1,0 +1,36 @@
+Design system "BMG · Biomagistral Santaluz" para Instagram (carrossel 1080×1350 e microreel 1080×1920).
+
+MARCA E LOGO
+- Use SOMENTE os arquivos de logo enviados (recortes oficiais). Nunca redesenhe, recolora, corte, gire, distorça ou anime partes do logo.
+- Logo dourado ou branco sobre azul-marinho; logo azul sobre fundo claro. Nunca logo azul sobre azul, nunca dourado sobre fundo claro.
+- O logo só aparece em um destes 5 lugares: canto superior esquerdo, canto superior direito, centro, canto inferior esquerdo, canto inferior direito. Respeite a área de segurança (metade da altura do ícone em volta).
+- Toda peça cita "Santaluz · BA" (nunca "Unidade Santaluz").
+
+CORES
+- Azul-marinho principal #0F1C2C (fundo "noite"); apoio #142639.
+- Fundo claro "gelo" #F3F5F8 e #E7ECF2; cartões brancos.
+- Dourado metálico em degradê, claro → escuro → claro: #F4F2BE → #A07F45 → #F4F2BE. Em fundo claro, textos dourados pequenos usam #7E6131 para ter contraste.
+- Verde #25A35A só para o botão de WhatsApp e para "verdade/correto".
+- Contraste sempre alto: texto claro só sobre fundo escuro e texto escuro só sobre fundo claro.
+
+TIPOGRAFIA
+- Só Poppins. Títulos em Poppins 300 com a palavra-chave em 700 (no fundo escuro, a palavra-chave em dourado degradê). Caixa normal (não usar tudo em maiúsculas nos títulos).
+- Etiquetas (eyebrow) pequenas, Poppins 600, maiúsculas espaçadas, com um traço dourado antes.
+- Texto corrido Poppins 400.
+
+LINGUAGEM VISUAL (tecnologia e sofisticação, abstrata e elegante)
+- O ícone da marca em tamanho gigante, cortado na borda, tom sobre tom ou em ouro translúcido, com um reflexo de luz que passa.
+- BIOQUÍMICA, não astronomia: a fórmula estrutural real do ativo do post (desenho de química, ligações finas que se desenham uma a uma) ao fundo, em dourado translúcido; poucos brilhos dourados grandes e desfocados; grade técnica muito sutil. PROIBIDO rede de pontos, estrelas, constelação ou partículas pequenas (parece céu, não laboratório).
+- Infográficos com impacto: número gigante, barras que crescem, anel que se desenha, pictograma de 100 pontos, palavra gigante, quadro da tabela periódica; zoom in e zoom out entre as cenas.
+- Varredura de luz dourada discreta, uma vez por cena.
+- Cartões com borda fina e vidro sutil.
+- PROIBIDO: ilustração literal de cápsula, frasco ou pílula desenhados; estética de template; emoji; poluição visual.
+
+MOVIMENTO
+- Entradas com cubic-bezier(0.16,1,0.3,1) em 400 a 700 ms; títulos revelados como cortina de luz da esquerda para a direita ou palavra por palavra; nada nasce do zero (opacidade 0, desfoque leve, deslocamento curto).
+- Um movimento herói por cena. Permanência legível. Sem bounce exagerado. Elegante, nunca agitado.
+
+TOM E REGRAS
+- Próximo e acolhedor, sofisticado. Chamada final: "Chame no WhatsApp (75) 99878-6349 para uma avaliação personalizada" e "Entrega grátis para toda a Bahia".
+- Sem preço, sem promessa de resultado, sem depoimento, sem antes e depois.
+- Área segura dos reels: nada importante a menos de 220 px do topo, 400 px da base e 150 px da direita.

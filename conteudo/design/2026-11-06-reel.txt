@@ -1,0 +1,20 @@
+Crie um microreel de animação vertical para o Instagram @biomagistral_santaluz (Biomagistral Santaluz · BA, farmácia de manipulação).
+Tema: excelência em manipulação e controle de qualidade.
+Formato: 9:16, 1080×1920, 15 s, 30 fps.
+Use estritamente o design system "BMG Biomagistral Santaluz" já configurado: cores, Poppins, dourado metálico em degradê, fundo azul-marinho, rede molecular fina, partículas douradas desfocadas, varredura de luz discreta. O logo é o do design system, inteiro, nunca redesenhado nem com partes animadas; aparece só no fecho. Nada de ilustração de cápsula, frasco ou pílula.
+
+CONCEITO: rigor invisível que vira confiança. Quem assiste sente precisão, tecnologia e sofisticação.
+
+PRIMEIRO SEGUNDO: o quadro 0 já está cheio (nada de abrir do preto). Uma linha de luz dourada corta a tela e acende a frase do gancho.
+
+CENA 1 · GANCHO (0,0–2,8 s): grade técnica sutil se acende ao fundo; anéis finos de precisão giram devagar. Texto: "Excelência não se vê."
+CENA 2 · VIRADA (2,8–5,2 s): a frase se desfaz em partículas que se reorganizam numa nova frase. Texto: "Ela se comprova."
+CENA 3 · PROVA (5,2–9,6 s): três etiquetas técnicas entram uma a uma, cada uma com um tique dourado de "conferido": "Laudo de análise em cada lote", "Pesagem registrada e conferida", "Controle de qualidade antes de liberar".
+CENA 4 · POSICIONAMENTO (9,6–12,0 s): o ícone gigante da marca, em ouro translúcido, surge cortado na borda com um reflexo de luz passando. Texto: "A farmácia de manipulação de excelência da região."
+FECHO (12,0–15,0 s): fundo azul-marinho, logo dourado do design system, texto "Chame no WhatsApp (75) 99878-6349", "Santaluz · BA" e "Entrega grátis para toda a Bahia"; nos últimos 0,4 s a linha de luz volta à posição do quadro 0 (loop).
+
+MOVIMENTO: entradas com cubic-bezier(0.16,1,0.3,1) em 400 a 700 ms; nada nasce do zero (opacidade 0, desfoque leve, deslocamento curto); um movimento herói por cena; sem bounce; elegante, nunca agitado.
+ÁREA SEGURA: texto a mais de 220 px do topo, 400 px da base e 150 px da direita; perto de 1 s, um quadro que funcione como capa no recorte central 1080×1440.
+CONTRASTE: texto claro só sobre o azul-marinho; sempre legível.
+NÃO USAR: preço, promessa de resultado, depoimento, emoji, estética de template, ilustração de cápsula.
+ENTREGA: HTML autocontido com modo de gravação. Antes de entregar, confira texto por texto, tempos, contraste, sobreposição, área segura e o loop.
